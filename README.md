@@ -1,6 +1,8 @@
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=7dcbf8&height=200&fontColor=313131&section=header&text=Je-chan&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=slice&color=7dcbf8&height=200&fontColor=313131&section=header&text=Je-developer&animation=fadeIn)
 
+
+# 🛠 Tech Stack
 
       
 - Languages 
