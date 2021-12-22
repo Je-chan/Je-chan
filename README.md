@@ -24,6 +24,8 @@
     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
     
+       
+<br/>
       
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Je-chan&show_icons=true&theme=radical)
