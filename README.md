@@ -17,12 +17,12 @@
     
 - Knowledgeable  
     
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Styled%20Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>  &nbsp;<img src="https://img.shields.io/badge/node.js-228B22?style=flat-square&logo=node.js&logoColor=white">  &nbsp;<img src="https://img.shields.io/badge/express-555555?style=flat-square&logo=express&logoColor=white">  &nbsp;<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Styled%20Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />  &nbsp;<img src="https://img.shields.io/badge/node.js-228B22?style=flat-square&logo=node.js&logoColor=white">  &nbsp;<img src="https://img.shields.io/badge/express-555555?style=flat-square&logo=express&logoColor=white">  &nbsp;<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
 
     
 - Now Learning  
     
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />  &nbsp;<img src="https://img.shields.io/badge/sass-cf649a?style=flat-square&logo=sass&logoColor=white" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white"/>  &nbsp;<img src="https://img.shields.io/badge/sass-cf649a?style=flat-square&logo=sass&logoColor=white" />
     
        
 <br/>
