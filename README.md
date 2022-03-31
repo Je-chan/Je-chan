@@ -26,7 +26,7 @@
         
 - State Management
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/redux-8A2BE2?style=flat-square&logo=redux&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/vuex-3eb07b?style=flat-square&logo=vue.js&logoColor=white"> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/redux-8A2BE2?style=flat-square&logo=redux&logoColor=white"> &nbsp;  <img src="https://img.shields.io/badge/pinia (formerly vuex)-ffd75a?style=flat-square&logo=pinia&logoColor=white"><img src="https://img.shields.io/badge/vuex-3eb07b?style=flat-square&logo=vue.js&logoColor=white"> 
     
 - Style 
     
@@ -47,7 +47,7 @@
     
 - Now Learning  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **First Place** &nbsp;&nbsp; <img src="https://img.shields.io/badge/pinia-ffd75a?style=flat-square&logo=pinia&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/vitest-6f9e34?style=flat-square&logo=vitest&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/mobx-de5e0c?style=flat-square&logo=mobx&logoColor=white"> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **First Place** &nbsp;&nbsp;<img src="https://img.shields.io/badge/vitest-6f9e34?style=flat-square&logo=vitest&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/mobx-de5e0c?style=flat-square&logo=mobx&logoColor=white"> 
     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Second Place** &nbsp;&nbsp; <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"> 
     
@@ -56,4 +56,3 @@
       
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Je-chan&show_icons=true&theme=radical)
-
