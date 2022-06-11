@@ -16,7 +16,7 @@
       
 - Languages 
     
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">  &nbsp; <img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white"/> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">  &nbsp; <img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white">
      
        
 - JavaScript Framework(Library)  
@@ -49,7 +49,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **First Place** &nbsp;&nbsp; <img src="https://img.shields.io/badge/mobx-de5e0c?style=flat-square&logo=mobx&logoColor=white"> 
     
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Second Place** &nbsp;&nbsp; <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Second Place** &nbsp; &nbsp; <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"> 
     
        
 <br/>
