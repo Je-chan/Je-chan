@@ -6,8 +6,8 @@
 - 2022.01.17 ~ 그리드위즈 플랫폼연구소 연구원
 - 現) 프론트엔드 개발자
     - 지금은 백엔드 API 개발 실무(Java, Spring)에 동참
-    - 앞으로 내가 무엇을 더 잘할 수 있을지에 대한 깊은 고민하는 중
-
+    - 폭넓게 개발 지식을 넓히며 앞으로 내가 무엇을 더 잘할 수 있을지에 대한 깊은 고민하는 중
+    - 비전공자인 만큼 CS 에 대한 공부도 준비중
 
     
     
@@ -35,12 +35,12 @@
 
 - TDD
     
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/jest-9a405a?style=flat-square&logo=jest&logoColor=white"> &nbsp;<img src="https://img.shields.io/badge/vitest-6f9e34?style=flat-square&logo=vitest&logoColor=white"> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/jest-9a405a?style=flat-square&logo=jest&logoColor=white"> &nbsp;<img src="https://img.shields.io/badge/vitest-6f9e34?style=flat-square&logo=vitest&logoColor=white"> &nbsp;<img src="https://img.shields.io/badge/JUnit-6DB33F?style=flat-square&logo=junit&logoColor=white">
   
 
 - Backend Stack
     
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white">  &nbsp;<img src="https://img.shields.io/badge/express-555555?style=flat-square&logo=express&logoColor=white">  &nbsp;<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"> &nbsp;<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> &nbsp;<img src="https://img.shields.io/badge/mariadb-4479A1?style=flat-square&logo=mariadb&logoColor=white"> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white">  &nbsp;<img src="https://img.shields.io/badge/express-555555?style=flat-square&logo=express&logoColor=white">  &nbsp;<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring&logoColor=white"> &nbsp;<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> &nbsp;<img src="https://img.shields.io/badge/mariadb-4479A1?style=flat-square&logo=mariadb&logoColor=white"> 
 
     
 
@@ -48,7 +48,7 @@
     
 - Now Learning  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **First Place** &nbsp;&nbsp; <img src="https://img.shields.io/badge/mobx-de5e0c?style=flat-square&logo=mobx&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/recoil-3479e5?style=flat-square&logo=recoil&logoColor=white"> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **First Place** &nbsp;&nbsp; <img src="https://img.shields.io/badge/mobx-de5e0c?style=flat-square&logo=mobx&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/recoil-3479e5?style=flat-square&logo=recoil&logoColor=white">  &nbsp; <img src="https://img.shields.io/badge/Spring Sequrity-6DB33F?style=flat-square&logo=spring&logoColor=white">  &nbsp; <img src="https://img.shields.io/badge/Spring JPA-6DB33F?style=flat-square&logo=spring&logoColor=white">
     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Second Place** &nbsp; &nbsp; <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"> 
     
