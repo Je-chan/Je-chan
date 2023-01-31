@@ -26,7 +26,7 @@
         
 - State Management
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/redux-8A2BE2?style=flat-square&logo=redux&logoColor=white"> &nbsp;  <img src="https://img.shields.io/badge/pinia (formerly vuex)-ffd75a?style=flat-square&logo=pinia&logoColor=white"><img src="https://img.shields.io/badge/vuex-3eb07b?style=flat-square&logo=vue.js&logoColor=white"> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/redux-8A2BE2?style=flat-square&logo=redux&logoColor=white"> &nbsp;  <img src="https://img.shields.io/badge/pinia (formerly vuex)-ffd75a?style=flat-square&logo=pinia&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/vuex-3eb07b?style=flat-square&logo=vue.js&logoColor=white"> 
     
 - Style 
     
