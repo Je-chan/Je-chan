@@ -26,7 +26,9 @@
         
 - State Management
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/redux-8A2BE2?style=flat-square&logo=redux&logoColor=white"> &nbsp;  <img src="https://img.shields.io/badge/pinia (formerly vuex)-ffd75a?style=flat-square&logo=pinia&logoColor=white"><img src="https://img.shields.io/badge/vuex-3eb07b?style=flat-square&logo=vue.js&logoColor=white"> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/redux-8A2BE2?style=flat-square&logo=redux&logoColor=white"> 
+&nbsp; <img src="https://img.shields.io/badge/recoil-3479e5?style=flat-square&logo=recoil&logoColor=white"> 
+&nbsp; <img src="https://img.shields.io/badge/pinia (formerly vuex)-ffd75a?style=flat-square&logo=pinia&logoColor=white"><img src="https://img.shields.io/badge/vuex-3eb07b?style=flat-square&logo=vue.js&logoColor=white"> 
     
 - Style 
     
@@ -47,7 +49,7 @@
     
 - Now Learning  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **First Place** &nbsp;&nbsp; <img src="https://img.shields.io/badge/mobx-de5e0c?style=flat-square&logo=mobx&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/recoil-3479e5?style=flat-square&logo=recoil&logoColor=white">  &nbsp; <img src="https://img.shields.io/badge/Spring Sequrity-6DB33F?style=flat-square&logo=spring&logoColor=white">  &nbsp; <img src="https://img.shields.io/badge/Spring JPA-6DB33F?style=flat-square&logo=spring&logoColor=white">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **First Place** &nbsp;&nbsp; <img src="https://img.shields.io/badge/mobx-de5e0c?style=flat-square&logo=mobx&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/Spring Sequrity-6DB33F?style=flat-square&logo=spring&logoColor=white">  &nbsp; <img src="https://img.shields.io/badge/Spring JPA-6DB33F?style=flat-square&logo=spring&logoColor=white">
     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Second Place** &nbsp; &nbsp; <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"> 
     
