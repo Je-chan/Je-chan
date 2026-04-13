@@ -1,15 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=7dcbf8&height=200&fontColor=313131&section=header&text=Je-developer&animation=fadeIn)
 
-# 😄 Who am I ? 
-- 2021.07.19 ~ 2021.12.25 코드 스테이츠 33기 수료
-- 2022.01.17 ~ 그리드위즈 플랫폼연구소 연구원
-- 現) 프론트엔드 개발자
-    - 백엔드 API 개발 실무(Java, Spring)에 동참
-    - 폭넓게 개발 지식을 넓히며 앞으로의 커리어 방향성에 깊은 고민중
-    - 컴퓨처 운영체제도 공부하며 기초를 다지는 중
-    - 내가 작성한 코드가 어떻게 동작하는지 원리를 파악하는 것을 우선으로 공부하는 중    
-    
+
     
 # 🛠 Tech Stack
 
